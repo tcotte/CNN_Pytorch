@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3fadf01-d5ea-46d5-9b05-f86233450fd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/models/custom_arch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610983941630</updated>
       <workItem from="1610983944255" duration="8125000" />
-      <workItem from="1611059182096" duration="234000" />
+      <workItem from="1611059182096" duration="941000" />
     </task>
     <servers />
   </component>
