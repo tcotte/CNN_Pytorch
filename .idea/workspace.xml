@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3fadf01-d5ea-46d5-9b05-f86233450fd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Cats VS Dogs V2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Cats VS Dogs V2-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cats VS Dogs V2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cats VS Dogs V2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LeNet.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fashion_mnist.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fashion_mnist.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet_catvsdogs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/resnet_catvsdogs.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
